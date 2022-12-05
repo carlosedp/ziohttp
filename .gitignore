@@ -1,0 +1,5 @@
+out
+.metals
+.vscode
+ziohttp.bin
+ziohttp.bin.build_artifacts.txt
